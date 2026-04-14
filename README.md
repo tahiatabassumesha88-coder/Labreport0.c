@@ -20,7 +20,7 @@ Algorithm
 6. Else → Not Leap Year  
 7. End  
 
-Impletation
+Implementation
 
 #include <stdio.h>
 
